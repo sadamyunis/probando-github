@@ -1,0 +1,11 @@
+total 20K
+-rw-r--r-- 1 sadamyunis sadamyunis   0 Nov 23 11:43 datos1
+-rw-r--r-- 1 sadamyunis sadamyunis   0 Nov 23 11:43 datos123
+-rw-r--r-- 1 sadamyunis sadamyunis   0 Nov 23 11:43 dot2.txt
+-rw-r--r-- 1 sadamyunis sadamyunis  38 Nov 24 17:49 error.txt
+-rw-r--r-- 1 sadamyunis sadamyunis   0 Nov 23 11:43 file.txt
+-rw-r--r-- 1 sadamyunis sadamyunis   0 Nov 23 11:43 file2.txt
+-rw-r--r-- 1 sadamyunis sadamyunis 323 Nov 24 17:12 index.html
+-rw-r--r-- 1 sadamyunis sadamyunis  18 Nov 24 17:46 misarchivo.txt
+-rw-r--r-- 1 sadamyunis sadamyunis  11 Nov 23 12:26 misarchivos.txt
+-rw-r--r-- 1 sadamyunis sadamyunis 107 Nov 24 17:53 output.txt

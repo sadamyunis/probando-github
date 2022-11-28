@@ -1,0 +1,10 @@
+datos1
+datos123
+dot2.txt
+error.txt
+file.txt
+file2.txt
+index.html
+misarchivo.txt
+misarchivos.txt
+output.txt
