@@ -1,5 +1,5 @@
 -rw-r--r-- 1 sadamyunis sadamyunis   0 Nov 23 11:43 datos1
--rw-r--r-- 1 sadamyunis sadamyunis   0 Nov 23 11:43 datos123
+-rw-r--r-- 1 almvñkjnigns sadamyunis   0 Nov 23 11:43 datos123
 -rw-r--r-- 1 sadamyunis sadamyunis   0 Nov 23 11:43 dot2.txt
 -rw-r--r-- 1 sadamyunis sadamyunis   0 Nov 23 11:43 file.txt
 -rw-r--r-- 1 sadamyunis sadamyunis   0 Nov 23 11:43 file2.txt
